@@ -16,15 +16,15 @@ Esta é uma API backend para um aplicativo de lista de tarefas (To-Do) desenvolv
 
 ## Configuração
 
-1. Clone este repositório: git clone https://github.com/seu-usuario/todo-app-api.git
+1. Clone este repositório: `git clone https://github.com/ArilsonB/csharp-todo-backend.git`
 
-2. Navegue até o diretório do projeto: cd todo-app-api
+2. Navegue até o diretório do projeto: `cd todo-app-api`
 
 3. Configure a string de conexão com o banco de dados no arquivo `appsettings.json`.
 
-4. Execute as migrações para criar o esquema do banco de dados: dotnet ef database update
+4. Execute as migrações para criar o esquema do banco de dados: `dotnet ef database update`
 
-5. Execute o projeto: dotnet run
+5. Execute o projeto: `dotnet run`
 
 A API estará acessível em `http://localhost:5000`.
 
