@@ -18,7 +18,7 @@ Esta é uma API backend para um aplicativo de lista de tarefas (To-Do) desenvolv
 
 1. Clone este repositório: `git clone https://github.com/ArilsonB/csharp-todo-backend.git`
 
-2. Navegue até o diretório do projeto: `cd todo-app-api`
+2. Navegue até o diretório do projeto: `cd csharp-todo-backend`
 
 3. Configure a string de conexão com o banco de dados no arquivo `appsettings.json`.
 
@@ -26,11 +26,11 @@ Esta é uma API backend para um aplicativo de lista de tarefas (To-Do) desenvolv
 
 5. Execute o projeto: `dotnet run`
 
-A API estará acessível em `http://localhost:5000`.
+A API estará acessível em `http://localhost:5174`.
 
 ## Endpoints
 
-A documentação da API pode ser acessada em `http://localhost:5000/swagger`.
+A documentação da API pode ser acessada em `http://localhost:5174/swagger`.
 
 ## Contribuindo
 
